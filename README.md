@@ -1,15 +1,18 @@
 # BlenderTextGenerator
 
 BlenderTextGenerator is a small application developed for generating 3D 
-letters in Blender for quick 3D printing. It generates a .blend file of the 
-text entered.
+letters in Blender for quick 3D printing. It generates a .obj file of the text 
+entered.
+
+![Screenshot](https://i.imgur.com/t6VcYbj.png)
+![GeneratedText](https://i.imgur.com/xa0yuSY.png)
 
 ## Getting Started
 
 
 ### Prerequisites
-This project is built on top of `python 2`, `PyGTK` and `Blender`. Those are 
-the necessary dependencies.
+This project is built on top of `python 2`, `PyGTK`, `pygtkglext` and 
+`Blender`. Those are the necessary dependencies.
 
 ### Installing
 
