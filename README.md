@@ -1,3 +1,5 @@
+# ⚠️ Archived ⚠️: No-one cares about this one.
+
 # BlenderTextGenerator
 
 BlenderTextGenerator is a small application developed for generating 3D 
